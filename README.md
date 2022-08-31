@@ -7,6 +7,7 @@
  ## Usage
     
     The Usage of Semantic structure and cleaning up the code by adding comments and reorginizing is to make it more accessible to the user and easier to navigate.
+    <img src="Images/Screen Shot 2022-08-31 at 1.29.50 PM.png" >
 
  ## License
      
